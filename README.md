@@ -60,7 +60,7 @@ Describe any challenges encountered while building the app.
     
     
 
-Project 2 - *MovieViewer*
+#Project 2 - *MovieViewer*
 
 **MovieViewer** is a movies app displaying box office and top rental DVDs using [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
